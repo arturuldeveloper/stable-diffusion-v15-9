@@ -1,1 +1,0 @@
-# stable-diffusion-v15-9
